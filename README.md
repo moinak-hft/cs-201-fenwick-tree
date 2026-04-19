@@ -76,3 +76,6 @@ i -= i & (-i);  // move upward during query
 - Bhavya Bansal
 
 Instructor: Prof. Apurva Mudgal
+Sources: 
+1. https://www.geeksforgeeks.org/dsa/binary-indexed-tree-or-fenwick-tree-2/
+2. https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
